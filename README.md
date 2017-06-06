@@ -11,7 +11,7 @@ The big idea here is to centralise all your bills, management and switching of s
 
 * [Acasa (formerly Splittable)](https://www.helloacasa.com) - *The app that runs your home*
 * [BillHub](https://billhub.io) - *BillHub is the simple, more secure way to send, spend and manage your money between housemates.*
-* [Homebox](https://homebox.io) - *Homebox helps you find and stay on better deals, forever.*
+* [Homebox](https://homebox.io) - *Homebox helps you find and stay on better deals, forever. We're more than just an app though, we're building a next-generation intelligent, automated, smart home platform.*
 * [Homeshift](https://homeshift.com) - *Save time and money. Track your household services with one super-simple online dashboard.*
 * [Onedox](https://onedox.com) - *Onedox is a digital P.A. for household admin. It saves you time and money, so you can spend more on the things you love.*
 * [WonderBill](https://wonderbill.com) - *All of your bills in one place. Track your spending. Get better deals. Securely store all of your bills.*
