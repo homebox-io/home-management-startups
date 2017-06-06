@@ -3,9 +3,11 @@ The UK Property Services Technology List
 
 __A notable number of startups are launching around the concepts of managing services supplied to properties.__
 
-Mostly these are household services (energy, broadband, insurance etc)
+These are mostly around improving people's experience of dealing with household services (energy, broadband, insurance etc). Here's a list of the startups and longer-standing businesses in the UK doing just this:
 
 ### Hubs
+
+The big idea here is to centralise all your bills, management and switching of services.
 
 * [Acasa (formerly Splittable)](https://www.helloacasa.com) - *The app that runs your home*
 * [BillHub](https://billhub.io) - *BillHub is the simple, more secure way to send, spend and manage your money between housemates.*
@@ -28,6 +30,8 @@ These guys are focused on doing one thing and doing it well, getting you cheaper
 * [Voltzz](http://www.voltzapp.com) - *Voltz tracks the market for the best gas and electricity deals and alerts you to switch with a couple of taps on your mobile.*
 
 ### Single Bills
+
+Mostly aimed at students, allowing people to pay a single bill to a single supplier.
 
 * [Glide](https://glide.co.uk/) - *Glide combines all of your shared household bills and sends one simple monthly bill to each housemate for their share*
 * [Huru](https://www.gethuru.com/) - *All of your utilities. One monthly bill.
