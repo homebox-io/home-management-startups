@@ -9,7 +9,7 @@ These are mostly around improving people's experience of dealing with household 
 
 The big idea here is to centralise all your bills, management and switching of services.
 
-* [Acasa (formerly Splittable)](https://www.helloacasa.com) - *The app that runs your home*
+* [Acasa (formerly Splittable)](https://www.helloacasa.com) - *The app that runs your home.*
 * [BillHub](https://billhub.io) - *BillHub is the simple, more secure way to send, spend and manage your money between housemates.*
 * [Homebox](https://homebox.io) - *Homebox helps you find and stay on better deals, forever. We're more than just an app though, we're building a next-generation intelligent, automated, smart home platform.*
 * [Homeshift](https://homeshift.com) - *Save time and money. Track your household services with one super-simple online dashboard.*
@@ -27,6 +27,7 @@ These guys are focused on doing one thing and doing it well, getting you cheaper
 * [Lumo App](https://lumoapp.co.uk) - *More than an energy price comparison site.*
 * [MSE's Cheap Energy Club](https://www.moneysavingexpert.com/cheapenergyclub)  - *Helping you get no-hassle, CONSTANTLY cheap gas & electricity* *Also runs collective switches.
 * [uAi](https://uai.life) - *No more switching. Just the cheapest energy, Always.*
+* [Switchcraft](https://www.switchcraft.co/) - *We automatically switch your energy supplier whenever there's a better deal.*
 * [Voltzz](http://www.voltzapp.com) - *Voltz tracks the market for the best gas and electricity deals and alerts you to switch with a couple of taps on your mobile.*
 
 ### Single Bills
