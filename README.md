@@ -10,6 +10,7 @@ These are mostly around improving people's experience of dealing with household 
 The big idea here is to centralise all your bills, management and switching of services.
 
 * [Acasa (formerly Splittable)](https://www.helloacasa.com) - *The app that runs your home.*
+* [Bean](https://usebean.com/) - *Find, track and manage your bills and subscriptions*
 * [BillHub](https://billhub.io) - *BillHub is the simple, more secure way to send, spend and manage your money between housemates.*
 * [Homebox](https://homebox.io) - *Homebox helps you find and stay on better deals, forever. We're more than just an app though, we're building a next-generation intelligent, automated, smart home platform.*
 * [Homeshift](https://homeshift.com) - *Save time and money. Track your household services with one super-simple online dashboard.*
