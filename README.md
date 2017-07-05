@@ -29,6 +29,8 @@ These guys are focused on doing one thing and doing it well, getting you cheaper
 * [Labrador](http://www.thelabrador.co.uk/) - *Labrador looks after your home energy, so you don't have to.*
 * [Lumo App](https://lumoapp.co.uk) - *More than an energy price comparison site.*
 * [MSE's Cheap Energy Club](https://www.moneysavingexpert.com/cheapenergyclub)  - *Helping you get no-hassle, CONSTANTLY cheap gas & electricity* *Also runs collective switches.
+* [Myia.ai](https://myia.ai/) - *AI assistant to find the cheapest plan on the market, seamlessly
+switch you and always keep looking for better plans.*
 * [uAi](https://uai.life) - *No more switching. Just the cheapest energy, Always.*
 * [Switchcraft](https://www.switchcraft.co/) - *We automatically switch your energy supplier whenever there's a better deal.*
 * [Voltzz](http://www.voltzapp.com) - *Voltz tracks the market for the best gas and electricity deals and alerts you to switch with a couple of taps on your mobile.*
