@@ -46,6 +46,7 @@ Split between your housemates.*
 
 ### Others
 
+* [BeeMyMinder](https://www.beemyminder.co.uk/) - *Store financial product documents online & set up reminders for renewal dates*
 * [HomeBeat](https://homebeat.live/) - *The digital platform for apartment buildings. Based in Germany.*
 * [Ergoe](http://www.ergoe.com/) - *We develop new technologies to empower consumers in the digital revolution of the UK energy ecosystem.*
 * [Splitwise](https://www.splitwise.com/) - *Share bills and IOUs. Make sure everyone gets paid back. Totally free for web, iPhone, and Android.*
