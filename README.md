@@ -52,6 +52,7 @@ Split between your housemates.*
 * [Splitwise](https://www.splitwise.com/) - *Share bills and IOUs. Make sure everyone gets paid back. Totally free for web, iPhone, and Android.*
 * [Just Move In](https://www.justmovein.co)
 * [Resolver](https://resolver.co.uk) - *Easily submit and manage complaints to various businesses*
+* [Plentific](https://plentific.com/) - *Looking for a tradesman, builder, handyman, electrician or any kind of Pro? We take care of it. Book instantly or post your job to receive quotes.*
 
 Personal Money Management
 =========================
