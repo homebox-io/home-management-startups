@@ -7,7 +7,7 @@ Startups to help manage your household services.
 
 ### Household Hubs
 
-Centralising bills and simplifying the management of property services.
+Simplifying the management of home services and centralising data of the home.
 
 * [Acasa (formerly Splittable)](https://www.helloacasa.com) - *The app that runs your home.*
 * [BillHub](https://billhub.io) - *BillHub is the simple, more secure way to send, spend and manage your money between housemates.*
