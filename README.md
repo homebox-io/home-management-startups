@@ -51,6 +51,7 @@ Split between your housemates.*
 * [Ergoe](http://www.ergoe.com/) - *We develop new technologies to empower consumers in the digital revolution of the UK energy ecosystem.*
 * [Splitwise](https://www.splitwise.com/) - *Share bills and IOUs. Make sure everyone gets paid back. Totally free for web, iPhone, and Android.*
 * [Just Move In](https://www.justmovein.co)
+* [Resolver](https://resolver.co.uk) - *Easily submit and manage complaints to various businesses*
 
 Personal Money Management
 =========================
