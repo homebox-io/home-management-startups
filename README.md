@@ -40,6 +40,7 @@ switch you and always keep looking for better plans.*
 Combining several bills into a single bill.
 
 * [Glide](https://glide.co.uk/) - *Glide combines all of your shared household bills and sends one simple monthly bill to each housemate for their share*
+* [Huddle](http://www.huddle.uk.com/) - *Our mission is to provide you with the cheapest inclusive bills package on the market*
 * [Huru](https://www.gethuru.com/) - *All of your utilities. One monthly bill.
 Split between your housemates.*
 * [Split The Bills](https://www.splitthebills.co.uk) - *We take the fuss out of your shared student bills.*
