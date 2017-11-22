@@ -1,7 +1,7 @@
 __FinTech / PropTech startups helping you centralise & manage your household services and finances...__
 
-Household Services Management
-=============================
+1. Home Services
+================
 
 Startups to help manage your household services.
 
@@ -55,8 +55,8 @@ Split between your housemates.*
 * [Resolver](https://resolver.co.uk) - *Easily submit and manage complaints to various businesses*
 * [Plentific](https://plentific.com/) - *Looking for a tradesman, builder, handyman, electrician or any kind of Pro? We take care of it. Book instantly or post your job to receive quotes.*
 
-Personal Money Management
-=========================
+2. Personal Finance
+===================
 
 FinTech startups helping centralise & manage more personal financial products.
 
@@ -68,8 +68,8 @@ FinTech startups helping centralise & manage more personal financial products.
 * [Plumb](https://withplum.com/)
 * [Yolt](https://www.yolt.com/)
 
-Others
-======
+3. Others
+=========
 
 ### Non-UK Startups
 
