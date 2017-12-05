@@ -26,6 +26,7 @@ Focusing on switching energy suppliers.
 * [Glowsave](https://www.glowsave.com) - *We auto-switch you onto your best fixed electricity and gas tariffs. Our average saving is £284. £25 / year.*
 * [HomeHero](http://homehero.info/) - *Compare energy deals from top companies in Facebook Messenger.*
 * [Labrador](http://www.thelabrador.co.uk/) - *Labrador looks after your home energy, so you don't have to.*
+* [LAMB (Look After My Bills)](https://lookaftermybills.com) - *Sign up once, get great deals forever. From the team behind 'The Big Deal'*
 * [Lumo App](https://lumoapp.co.uk) - *More than an energy price comparison site.*
 * [MSE's Cheap Energy Club](https://www.moneysavingexpert.com/cheapenergyclub)  - *Helping you get no-hassle, CONSTANTLY cheap gas & electricity* *Also runs collective switches.*
 * [Myia.ai](https://myia.ai/) - *AI assistant to find the cheapest plan on the market, seamlessly
