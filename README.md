@@ -40,6 +40,7 @@ switch you and always keep looking for better plans.*
 
 Combining several bills into a single bill.
 
+* [Billing Better](https://billingbetter.co.uk/) - *Set up all your household bills for the best prices in one place. Also see [https://onebillpackage.co.uk/](https://onebillpackage.co.uk/)*
 * [Glide](https://glide.co.uk/) - *Glide combines all of your shared household bills and sends one simple monthly bill to each housemate for their share*
 * [Huddle](http://www.huddle.uk.com/) - *Our mission is to provide you with the cheapest inclusive bills package on the market*
 * [Huru](https://www.gethuru.com/) - *All of your utilities. One monthly bill.
