@@ -120,7 +120,6 @@ Usually associated and used by an individual.
 * Personal insurance (life, health, income protection, critical illness)
 * Travel insurance
 * Mobile phone
-* Pet insurance
 * Pensions
 * Investments
 
@@ -128,6 +127,7 @@ Usually associated and used by an individual.
 
 Could be either associated with a household or individual.
 
+* Pet insurance
 * Motoring insurance & products (car insurance, breakdown cover etc)
 * Software subscriptions (Spotify, Netflix etc)
 * Delivery subscriptions (veg boxes, shopping deliveries etc)
