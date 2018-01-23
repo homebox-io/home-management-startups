@@ -65,6 +65,7 @@ FinTech startups helping centralise & manage more personal financial products.
 * [Bean](https://usebean.com/) - *Find, track and manage your bills and subscriptions*
 * [Bud](https://thisisbud.com/)
 * [Cleo](https://www.meetcleo.com/)
+* [Emma](https://emma-app.com)
 * [Mespo](https://www.mespo.co.uk/) (formerly Mobillity) - *We reduce your monthly costs, at the click of a button. On Facebook Messenger.*
 * [Money Dashboard](https://www.moneydashboard.com/)
 * [Plumb](https://withplum.com/)
@@ -77,7 +78,8 @@ Others
 ### Non-UK Startups
 
 * [Bobby](http://www.bobbyapp.co/)
-* [Truebill](truebill.com)
+* [Tink](https://www.tinkapp.com) *Sweden*
+* [Truebill](truebill.com) *US*
 * [Combine](https://www.getcombine.com) *Spain*
 
 ### Price Comparison Websites
