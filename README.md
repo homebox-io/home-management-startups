@@ -45,6 +45,7 @@ Combining several bills into a single bill.
 * [Huddle](http://www.huddle.uk.com/) - *Our mission is to provide you with the cheapest inclusive bills package on the market*
 * [Huru](https://www.gethuru.com/) - *All of your utilities. One monthly bill.
 Split between your housemates.*
+* [One Utility Bill](https://oneutilitybill.co) *Enables landlords and letting agents to offer their portfolio as all inclusive of utilities and household bills* 
 * [Split The Bills](https://www.splitthebills.co.uk) - *We take the fuss out of your shared student bills.*
 
 ### Others
@@ -52,6 +53,7 @@ Split between your housemates.*
 * [BeeMyMinder](https://www.beemyminder.co.uk/) - *Store financial product documents online & set up reminders for renewal dates*
 * [HomeBeat](https://homebeat.live/) - *The digital platform for apartment buildings. Based in Germany.*
 * [Ergoe](http://www.ergoe.com/) - *We develop new technologies to empower consumers in the digital revolution of the UK energy ecosystem.*
+* [SmartBill](https://smart-bill.co.uk/) - *The smart assistant that saves you money*
 * [Splitwise](https://www.splitwise.com/) - *Share bills and IOUs. Make sure everyone gets paid back. Totally free for web, iPhone, and Android.*
 * [Just Move In](https://www.justmovein.co)
 * [Resolver](https://resolver.co.uk) - *Easily submit and manage complaints to various businesses*
