@@ -64,15 +64,22 @@ Personal Money Management
 
 FinTech startups helping centralise & manage more personal financial products.
 
+* [Aptap](https://aptap.co.uk/)
+* [Bankin'](https://bankin.com/en/home.html)
 * [Bean](https://usebean.com/) - *Find, track and manage your bills and subscriptions*
 * [Bud](https://thisisbud.com/)
 * [Cleo](https://www.meetcleo.com/)
+* [ctrlio](https://ctrlio.com/)
 * [Emma](https://emma-app.com)
 * [Mespo](https://www.mespo.co.uk/) (formerly Mobillity) - *We reduce your monthly costs, at the click of a button. On Facebook Messenger.*
+* [Me&My Money](https://meandmy.money/)
 * [Money Dashboard](https://www.moneydashboard.com/)
+* [Money Hub](https://www.moneyhub.com/)
 * [Plumb](https://withplum.com/)
 * [Tandem](tandem.co.uk) - *All your bank accounts in one place, automatic bills categorisation, switch and save on services (e.g energy, media streaming)*
+* [Yboo](http://www.yboo.co.uk/) - *Sim-only mobile phone comparison*
 * [Yolt](https://www.yolt.com/)
+* [YNAB (You Need a Budget)](https://www.youneedabudget.com/)
 
 Others
 ======
@@ -80,6 +87,7 @@ Others
 ### Non-UK Startups
 
 * [Bobby](http://www.bobbyapp.co/)
+* [Prism](https://www.prismmoney.com/)
 * [Tink](https://www.tinkapp.com) *Sweden*
 * [Truebill](truebill.com) *US*
 * [Combine](https://www.getcombine.com) *Spain*
