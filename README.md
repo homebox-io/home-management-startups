@@ -11,6 +11,7 @@ Simplifying the management of home services and centralising data of the home.
 
 * [Acasa (formerly Splittable)](https://www.helloacasa.com) - *The app that runs your home.*
 * [BillHub](https://billhub.io) - *BillHub is the simple, more secure way to send, spend and manage your money between housemates.*
+* [BrilliantBills](http://brilliantbills.com/) - *Start loving your finances - centralises your home services with document uploads*
 * [Homebox](https://homebox.io) - *Homebox helps you find and stay on better deals, forever. We're more than just an app though, we're building a next-generation intelligent, automated, smart home platform.*
 * [Homeshift](https://homeshift.com) - *Save time and money. Track your household services with one super-simple online dashboard.*
 * [Hoppy](https://www.hoppy.co.uk) - *Task based home management*
@@ -71,7 +72,6 @@ FinTech startups helping centralise & manage more personal financial products.
 * [Cleo](https://www.meetcleo.com/)
 * [ctrlio](https://ctrlio.com/)
 * [Emma](https://emma-app.com)
-* [Mespo](https://www.mespo.co.uk/) (formerly Mobillity) - *We reduce your monthly costs, at the click of a button. On Facebook Messenger.*
 * [Me&My Money](https://meandmy.money/)
 * [Money Dashboard](https://www.moneydashboard.com/)
 * [Money Hub](https://www.moneyhub.com/)
